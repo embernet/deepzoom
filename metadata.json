@@ -1,0 +1,5 @@
+{
+  "name": "Deep Zoom Image Explorer v2",
+  "description": "An application to process very large images into a tiled format for efficient, deep zooming. It consists of two parts: an image splitter to generate tiles and an explorer to view them with multi-level zoom controls.",
+  "requestFramePermissions": []
+}
